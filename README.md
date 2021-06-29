@@ -9,3 +9,5 @@ RUST Credits: Eso, Avaster, Canary
 Valorant Credits: Eso, Valentina, Ozar
 
 Loader Credits: Avaster, Nuckle (microsoft dev)
+
+Source: https://rip.gamesense.pub/sources
